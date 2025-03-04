@@ -37,7 +37,7 @@ const formik = useFormik({
                 type="text"
                 id="password"
                 name="password"
-                placeholder='newPassword'
+                placeholder='new password'
                 required
                 {...formik.getFieldProps('password')}
               /><br /><br />
@@ -46,7 +46,7 @@ const formik = useFormik({
                 type="text"
                 id="confirmPassword"
                 name="confirmPassword"
-                placeholder='confirmPassword'
+                placeholder='confirm password'
                 required
                 {...formik.getFieldProps('confirmPassword')}
               /><br /><br />

@@ -29,7 +29,7 @@ export default function Recovery() {
                 type="text"
                 id="password"
                 name="password"
-                placeholder='Password'
+                placeholder='Enter OTP'
                 required
               /><br /><br />
   
