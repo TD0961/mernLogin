@@ -1,0 +1,11 @@
+/* App.css */
+
+.root-route {
+  background-color: lightblue;
+  padding: 20px;
+}
+
+.register-route {
+  background-color: lightpink;
+  padding: 20px;
+}
